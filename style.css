@@ -1,0 +1,51 @@
+body{
+    background-color: #151b23
+}
+
+#meu-nome{
+    text-align: center;
+    text-decoration: underline;
+    color: #2ecc71;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+#foto{
+    text-align: center;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    color: #f5f6fa;
+}
+
+.titulo{
+    color: #2ecc71;
+    font-family: 'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+}
+
+p{
+    color: #f5f6fa;
+    font-family: 'Poppins', sans-serif;
+}
+
+.text-icon{
+    color: #f5f6fa;
+    font-family: 'Poppins', sans-serif;
+}
+
+figcaption{
+    color: #f5f6fa;
+    font-family: 'Poppins', sans-serif;
+}
+
+.topic{
+    color: #a0a4ab;
+    font-family: 'Poppins', sans-serif;
+    font-weight: bold;
+}
+
+a:hover{
+    color: #2ecc71;
+    font-style: italic;
+}
+
+a{
+    color: #a0a4ab;
+}
